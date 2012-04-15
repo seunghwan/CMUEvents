@@ -7,6 +7,6 @@
 <title>Register</title>
 </head>
 <body>
-
+This is registering.
 </body>
 </html>
